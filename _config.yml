@@ -1,0 +1,22 @@
+title: "Chorales"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+description: Chorale encyclopedia
+permalink: pretty
+exclude: ["README.md"]
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+# Enable or disable heading anchors
+heading_anchors: true
+aux_links:
+  "Github":
+    - "//github.com/MegaMech/wiki/tree/gh-pages"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2019 Epitaph. Distributed by an MIT license."
+gems: [jekyll-youtube]
+plugins: 
+    - jekyll-seo-tag
+    - jekyll-mentions
+    - jekyll-youtube
