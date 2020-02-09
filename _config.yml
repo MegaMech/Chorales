@@ -11,7 +11,7 @@ search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 aux_links:
   "Github":
-    - "//github.com/MegaMech/Chorales/tree/master"
+    - "//github.com/MegaMech/Chorales/tree/gh-pages"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2019 Alex Windsor."
